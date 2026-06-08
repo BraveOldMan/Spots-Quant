@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polymarket Football Daily"
+  short_description: "Read-only football market analysis and Feishu delivery."
+  default_prompt: "Use $polymarket-football-daily-report to analyze today's Polymarket football markets and send the Feishu summary."
