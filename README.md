@@ -1,3 +1,7 @@
+---
+description: "Reproducible, no-lookahead quantitative research system for football 1X2 markets and Polymarket workflows."
+---
+
 # Spots-Quant
 
 Spots-Quant is a quantitative research system for football 1X2 markets and
